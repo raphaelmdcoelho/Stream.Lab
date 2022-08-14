@@ -1,0 +1,4 @@
+This is a file
+with some text
+to use on
+Stream tests.
